@@ -13,3 +13,6 @@
 * TypeOfAccident
 * TypeOfCar
 * TypeOfIntersection
+
+
+[![](https://codescene.io/projects/1482/status.svg) Get more details at **codescene.io**.](https://codescene.io/projects/1482/jobs/latest-successful/results)
